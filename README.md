@@ -9,5 +9,5 @@ Contributors:
 
 Task: in a supervised setting, implement a CNN to classify a plant image based on its health condition. 
 
-Key concepts: Convolutional Neural Networks (CNN), Image Augmentation, Transfer Learning, Fine Tuning
+Key concepts: Convolutional Neural Networks (CNN), Image Augmentation, Transfer Learning, Fine Tuning.
 
